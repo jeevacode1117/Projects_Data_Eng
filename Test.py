@@ -37,7 +37,8 @@ import sys
 
 full_name = sys.argv[1]
 print("Hello", full_name)
-
+print("Hello", full_name, "Welcome to Python Programming")  
+print(len(full_name))
 
 
 
