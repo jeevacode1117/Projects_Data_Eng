@@ -33,6 +33,11 @@ print("Balance_rolls",balance_roll);
 
 print("Hello");
 
+import sys
+
+full_name = sys.argv[1]
+print("Hello", full_name)
+
 
 
 
